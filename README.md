@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izhardh
-- 👀 I’m interested in Programing and also Telecomunication
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Telecomunication and alsoPrograming
+- 🌱 I’m currently learning C , C++, Python and VHDL
 - 💞️ I’m looking to collaborate on SDR Project with GNU Radio
 - 📫 How to reach me u can send email: izhardhiya280520@gmail.com
 
